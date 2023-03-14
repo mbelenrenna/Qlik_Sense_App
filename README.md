@@ -3,12 +3,23 @@ Bienvenidos!
 Les comparto el resultado final que obtuve del Bootcamp de "Jupi Digital Latinoamérica" en Análisis de Datos!
 
 ## ETL [Extract, Transform and Load]
-EXTRACCION DE DATOS
+### EXTRACCION DE DATOS
 -QVDs DE EXTRACCIÓN Y TRANSFORMACIÓN
 -VARIABILIZACION DE RUTAS
 -PROYECTO ESCALABLE
 <div id="header" align="center">
-<img src=" "/>
+<img src="https://github.com/mbelenrenna/Qlik_Sense_App/blob/main/APP%20EXT%20TRA%20VENTAS.png"/>
+  
+### TRANSFORMACIÓN DE DATOS
+  Trabajo en conjunto con Visual Studio Code
+-QVSs DE EXTRACCIÓN Y TRANSFORMACIÓN
+-RENOMBRAMIENTO DE CAMPOS
+-JOINS
+-CONCATENACIONES
+-CALENDARIO MAESTRO
+-TABLAS MAESTRAS
+<div id="header" align="center">
+<img src=""/>
 
 ## Modelo Estrella
 <div id="header" align="center">
